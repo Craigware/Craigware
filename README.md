@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Craigware
-- 👀 I’m interested in game development.
+- 👀 I’m interested in game and web development.
 - 🌱 I’m currently learning Unity Development in C#, Javascript, Django, FastAPI, React, Tailwind CSS, HTML, and CSS
