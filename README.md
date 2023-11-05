@@ -13,7 +13,7 @@ I have two personal projects I am currently working on, my portfolio website and
 
 ## 😍 My favorite frameworks and libraries
 
-<ul style="display:grid; grid-template-columns: 33% 33% 33%;">
+<ul style="display: grid; grid-template-columns: 33% 33% 33%;">
   <li>React</li>
   <li>TailwindCSS</li>
   <li>Bootstrap</li>
