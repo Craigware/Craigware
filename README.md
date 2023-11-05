@@ -5,21 +5,11 @@ I have two personal projects I am currently working on, my portfolio website and
 
 ## 😎 If you are looking to hire, I am currently looking for
 - Entry, or junior level
-- remote, hybrid, or on-site
-- web, game, and mobile development
-- full-stack development
-- front-end development
-- back-end development
-
-## 😍 My favorite frameworks and libraries
-
-<ul style="display: grid; grid-template-columns: 33% 33% 33%;">
-  <li>React</li>
-  <li>TailwindCSS</li>
-  <li>Bootstrap</li>
-  <li>Django</li>
-  <li>FastAPI</li>
-</ul>
+- Remote, hybrid, or on-site
+- Web, game, and mobile development
+- Full-stack development
+- Front-end development
+- Back-end development
 
 ## 😍 My favorite languages
 - C#
@@ -28,6 +18,13 @@ I have two personal projects I am currently working on, my portfolio website and
 - HTML
 - CSS
 - C++
+
+## 😍 My favorite frameworks and libraries
+- React
+- TailwindCSS
+- Bootstrap
+- Django
+- FastAPI
 
 ## 🍒 I want to learn
 - ASP.NET
