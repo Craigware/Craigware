@@ -12,11 +12,13 @@ I have two personal projects I am currently working on, my portfolio website and
 - back-end development
 
 ## 😍 My favorite frameworks and libraries
-- React
-- TailwindCSS
-- Bootstrap
-- Django
-- FastAPI.
+<ul style="display: grid; grid-template-columns: 33%, 33%, 33%">
+  <li>React</li>
+  <li>TailwindCSS</li>
+  <li>Bootstrap</li>
+  <li>Django</li>
+  <li>FastAPI</li>
+</ul>
 
 ## 😍 My favorite languages
 - C#
