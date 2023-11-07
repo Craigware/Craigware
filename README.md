@@ -21,7 +21,7 @@ I have two personal projects I am currently working on, my portfolio website and
 - CSS
 - C++
 
-## 😍 My favorite frameworks and libraries
+## 🦑 My favorite frameworks and libraries
 - React
 - TailwindCSS
 - Bootstrap
