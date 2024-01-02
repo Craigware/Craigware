@@ -31,5 +31,4 @@ I have two personal projects I am currently working on, my portfolio website and
 ## 🍒 I want to learn
 - ASP.NET
 - Node
-- PHP
 - HTMX
