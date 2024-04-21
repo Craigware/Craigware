@@ -4,7 +4,6 @@ Hey there, my name is Craig Johnson, and I am in love with software development.
 ## 🍒 What I want to learn in 2024
 - [ ] ASP.NET
 - [ ] Godot
-- [ ] Discord Embedded SDK
 - [ ] A low level language (Probably RUST, or C++)
 - [ ] Neovim
 
