@@ -9,7 +9,7 @@ Hey there, my name is Craig Johnson, and I am in love with software development.
 
 ## ✅ Projects I want to finish this year
 - [ ] [Capsule POP]()
-- [ ] [CraigJArt](https://github.com/Craigware/Doodle-Gallery)
+- [x] [CraigJArt](https://github.com/Craigware/Doodle-Gallery)
 - [ ] [Gone Fish'n]()
 - [ ] [Nerd-E]() 
 - [ ] [Complete]()
