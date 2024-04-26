@@ -1,5 +1,5 @@
 # 👑 About me
-Hey there, my name is Craig Johnson, and I am in love with software development... Programming in general really. I started coding in middle school, creating Minecraft minigames with a language called SkriptLang. That led me to grow an interest in game design and front end development. These two hobbies really sparked my enthusiasm for coding. They combined both my creative hobby of art and logical hobby of coding, and so I fell in love.     
+Hey there, I'm Craig. I started coding in middle school with a scripting language called Skript for Minecraft. At the time I didn't even know what programming was, I was just writing text that made Minecraft act how I wanted it to. I really enjoyed this experience and got into game development, and game development opened the doors to all other forms of software for me.
      
 ## 🍒 What I want to learn in 2024
 - [ ] ASP.NET
