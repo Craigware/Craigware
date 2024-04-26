@@ -3,12 +3,12 @@ Hey there, my name is Craig Johnson, and I am in love with software development.
      
 ## 🍒 What I want to learn in 2024
 - [ ] ASP.NET
-- [ ] Godot
+- [x] Godot
 - [ ] A lower level language (Probably RUST, or C++)
 - [ ] Neovim
 
 ## ✅ Projects I want to finish this year
-- [ ] [Capsule POP]()
+- [ ] [Capsule POP Prototype](https://github.com/Craigware/CapsulePop)
 - [x] [CraigJArt](https://github.com/Craigware/Doodle-Gallery)
 - [ ] [Gone Fish'n]()
 - [ ] [Nerd-E]() 
