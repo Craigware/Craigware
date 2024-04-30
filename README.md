@@ -8,8 +8,8 @@ Hey there, I'm Craig. I started coding in middle school with a scripting languag
 - [ ] Neovim
 
 ## ✅ Projects I want to finish this year
-- [x] [Capsule POP Prototype](https://github.com/Craigware/CapsulePop)
-- [x] [CraigJArt](https://github.com/Craigware/Doodle-Gallery)
-- [ ] [Gone Fish'n]()
+- [ ] [Gone Fish'n](https://github.com/Craigware/GoneFishn)
 - [ ] [Nerd-E]() 
 - [ ] [Complete]()
+- [x] [Capsule POP Prototype](https://github.com/Craigware/CapsulePop)
+- [x] [CraigJArt](https://github.com/Craigware/Doodle-Gallery)
