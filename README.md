@@ -5,7 +5,7 @@ Hey there, I'm Craig. I started coding in middle school with a scripting languag
 - [ ] ASP.NET
 - [x] Godot
 - [ ] A lower level language (Probably RUST, or C++)
-- [ ] Neovim
+- [x] Neovim
 
 ## ✅ Projects I want to finish this year
 - [ ] [Gone Fish'n](https://github.com/Craigware/GoneFishn)
