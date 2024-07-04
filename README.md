@@ -8,7 +8,7 @@ I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games
 | <ul><li>[ ] Shaders (Godot Shaders, GLSL, HLSL)</ul> | <ul><li>[ ] Quaternions</ul> | <ul><li>[ ] Steamworks</ul> |
 
 # 🐟 Projects
-| Name | Description | Goal | Completed | Target Deadline (MM-DD-YYYY) |
+| Name | Description | Goal | Completed | Target Deadline <br>(MM-DD-YYYY) |
 | ---- | ----------- | ---- | --------- | ---------------------------- |
 | Creature's | A RTS RPG creature collector. | Passion project | False | (Prototype) 9-2-2024
 | Creature's Blog | A blog site about Creature's | Be able to see and share project growth, learn VueJS | False | 8-2-2024
