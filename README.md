@@ -1,15 +1,16 @@
-# 👑 About me
-Hey there, I'm Craig. I started coding in middle school with a scripting language called Skript for Minecraft. At the time I didn't even know what programming was, I was just writing text that made Minecraft act how I wanted it to. I really enjoyed this experience and got into game development, and game development opened the doors to all other forms of software for me.
-     
-## 🍒 What I want to learn in 2024
-- [ ] ASP.NET
-- [x] Godot
-- [ ] A lower level language (Probably RUST, or C++)
-- [x] Neovim
+# 👋 HELLO!
+I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games and websites.
 
-## ✅ Projects I want to finish this year
-- [ ] [Gone Fish'n](https://github.com/Craigware/GoneFishn)
-- [ ] [Nerd-E]() 
-- [ ] [Complete]()
-- [x] [Capsule POP Prototype](https://github.com/Craigware/CapsulePop)
-- [x] [CraigJArt](https://github.com/Craigware/Doodle-Gallery)
+# 🍒 What I want to learn
+||||
+|------|-----|-----|
+| <ul><li>[ ] .NET Core</ul> | <ul><li>[ ] C</ul> | <ul><li>[ ] AWS</ul> |
+| <ul><li>[ ] Shaders (Godot Shaders, GLSL, HLSL)</ul> | <ul><li>[ ] Quaternions</ul> | <ul><li>[ ] Steamworks</ul> |
+
+# 🐟 Projects
+| Name | Description | Goal | Completed | Target Deadline (MM-DD-YYYY) |
+| ---- | ----------- | ---- | --------- | ---------------------------- |
+| Creature's | A RTS RPG creature collector. | Passion project | False | (Prototype) 9-2-2024
+| Creature's Blog | A blog site about Creature's | Be able to see and share project growth, learn VueJS | False | 8-2-2024
+| Pingtooba | Pngtuber software for my Youtube videos | Have an interesting visual | Ongoing | 5-30-2024 
+| Microgame Weekend | Creating a video game every weekend | Get better at game development | Ongoing | However long I last 
