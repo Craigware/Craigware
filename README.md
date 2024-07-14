@@ -10,7 +10,9 @@ I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games
 # 🐟 Projects
 | Name | Description | Goal | Completed | Target Deadline <br>(MM-DD-YYYY) |
 | ---- | ----------- | ---- | --------- | ---------------------------- |
-| Creature's | A RTS RPG creature collector. | Passion project | False | (Prototype) 9-2-2024 
-| Creature's Blog | A blog site about Creature's | Be able to see and share project growth, learn VueJS | False | 8-2-2024 
+| PirateJam | Pirate Softwares game jam 15 | 14 day long game jam | False | 07-23-2024
+| Lich | A top down action boss battler written in c | 90 day to steam challenge by Randy | False | 10-7-2024
+| Creature's | A RTS RPG creature collector. | Passion project | False | (Prototype) (Paused for hard deadlines)
+| Creature's Blog | A blog site about Creature's | Be able to see and share project growth, learn VueJS | False | (Paused for hard deadlines) 
 | Pingtooba | Pngtuber software for my Youtube videos | Have an interesting visual | Ongoing | 5-30-2024 
 | Microgame Weekend | Creating a video game every weekend | Get better at game development | Paused | However long I last 
