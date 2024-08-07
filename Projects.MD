@@ -9,6 +9,7 @@ A directory / reminder of everything I've worked on.
 | Website | Game Development Blog | A website where I can post my learnings and development | False ||
 
 # Completed
+
 | Type | Name | Description | Completed | Last Date Edited <br>(MM-DD-YYYY) |
 | Website | Goldn' Hours | A photography centric social media | True ||
 | Website | Portfolio Website | Well, a portfolio website | True ||
