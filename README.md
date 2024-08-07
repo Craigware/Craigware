@@ -18,4 +18,4 @@ I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games
 # 🍥Finished Projects 2024
 | Name | Description | Goal | Completed | Target Deadline <br>(MM-DD-YYYY) |
 | ---- | ----------- | ---- | --------- | ---------------------------- |
-| PirateJam | Pirate Softwares game jam 15 | 14 day long game jam | True | 07-31-2024
+| PirateJam | Pirate Softwares game jam 15 | 14 day long game jam | True (07-31-2024) | 07-31-2024
