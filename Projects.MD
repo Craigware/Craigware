@@ -1,6 +1,7 @@
 A directory / reminder of everything I've worked on.
 
 # In progress
+- Total 4, Games 2, Websites 1
 | Type | Name | Description | Completed | Last Date Edited <br>(MM-DD-YYYY) |
 | ---- | ---- | ---------- | --------- | ---------------------------- |
 | Application | Pingtooba | A pngtuber application made in Godot | False ||
@@ -9,8 +10,9 @@ A directory / reminder of everything I've worked on.
 | Website | Game Development Blog | A website where I can post my learnings and development | False ||
 
 # Completed
-
+- Total 11, Games 8, Websites 3
 | Type | Name | Description | Completed | Last Date Edited <br>(MM-DD-YYYY) |
+| ---- | ---- | ---------- | --------- | ---------------------------- |
 | Website | Goldn' Hours | A photography centric social media | True ||
 | Website | Portfolio Website | Well, a portfolio website | True ||
 | Website | Doodle Gallary | A gallery website and backend for displaying doodles | True ||
