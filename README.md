@@ -10,7 +10,7 @@ I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games
 # 🐟 Projects 2024
 | Name | Description | Goal | Completed | Target Deadline <br>(MM-DD-YYYY) |
 | ---- | ----------- | ---- | --------- | ---------------------------- |
-| GMKT Game Jam 20204 | GMTK's Game jam | Complete a game in 4 days | false | 08-19-2024
+| GMKT Game Jam 2024 | GMTK's Game jam | Complete a game in 4 days | false | 08-19-2024
 | Lich | A top down action boss battler | Release a game to steam | False | 10-7-2024
 | Creature's | A RTS RPG creature collector. | Passion project | False | (Prototype) (Paused for hard deadlines)
 | Creature's Blog | A blog site about Creature's | Be able to see and share project growth, learn VueJS | False | (Paused for hard deadlines) 
