@@ -5,7 +5,7 @@ I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games
 ||||
 |------|-----|-----|
 | <ul><li>[ ] .NET Core</ul> | <ul><li>[ ] C</ul> | <ul><li>[ ] AWS</ul> |
-| <ul><li>[ ] Shaders (Godot Shaders, GLSL, HLSL)</ul> | <ul><li>[ ] Quaternions</ul> | <ul><li>[ ] Steamworks</ul> |
+| <ul><li>[x] Shaders (Godot Shaders, GLSL, HLSL)</ul> | <ul><li>[ ] Quaternions</ul> | <ul><li>[ ] Steamworks</ul> |
 
 # 🐟 Projects 2024
 | Name | Description | Goal | Completed | Target Deadline <br>(MM-DD-YYYY) |
