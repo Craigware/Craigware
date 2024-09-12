@@ -4,7 +4,7 @@ I'm a software developer man, guy, dude, MACHINE... man.<br> I like making games
 # 🍒 What I want to learn
 ||||
 |------|-----|-----|
-| <ul><li>[ ] .NET Core</ul> | <ul><li>[ ] C</ul> | <ul><li>[ ] AWS</ul> |
+| <ul><li>[x] .NET Core</ul> | <ul><li>[ ] C</ul> | <ul><li>[ ] AWS</ul> |
 | <ul><li>[x] Shaders (Godot Shaders, GLSL, HLSL)</ul> | <ul><li>[ ] Quaternions</ul> | <ul><li>[ ] Steamworks</ul> |
 
 # 🐟 Projects 2024
